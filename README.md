@@ -34,9 +34,8 @@
 ## 📷 Screenshots
 
 <p align="center">
-    <img src="https://github.com/Avish-cde/NewsMonk/assets/84725686/06b14d9c-bda8-45b7-8a18-06a0e3208753" alt="NewsMonk Screenshot 1" width="400" />
-    <img src="https://github.com/Avish-cde/NewsMonk/assets/84725686/ea87c4a0-a317-4bca-be18-c2ccd3291ed6" alt="NewsMonk Screenshot 1" width="400" />
-  
+    <img src="https://github.com/Avish-cde/NewsMonk/assets/84725686/4a6fe1ee-4ade-4de1-94b1-9db7a14851dc" alt="NewsMonk Screenshot 1" width="400" />
+    <img src="https://github.com/Avish-cde/NewsMonk/assets/84725686/647b5a87-7bbb-4411-b5c6-b91aa7844338" alt="NewsMonk Screenshot 1" width="400" />
 </p>
 
 
