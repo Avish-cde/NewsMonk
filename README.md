@@ -45,7 +45,7 @@
 
 1. **Clone the repository:**
 
-git clone https://github.com/yourusername/NewsMonk.git
+git clone https://github.com/Avish-cde/NewsMonk.git
 
 markdown
 Copy code
